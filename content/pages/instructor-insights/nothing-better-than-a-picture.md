@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 3e5908a6-91ac-b5f9-439c-c37900c37063
 title: 'Nothing Better than a Picture '
 uid: 97e48da7-126b-04f0-2faa-6006c668de19

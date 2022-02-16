@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Guest Interviews
 uid: e4e75018-67ee-17ef-4b31-55a10ea56b67
 videos:

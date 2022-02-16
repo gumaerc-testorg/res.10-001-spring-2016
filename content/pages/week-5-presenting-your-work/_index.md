@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: 'Week 5: Presenting Your Work'
 uid: 35b66d4c-e11d-065d-9bdb-9fbc638dcca6
 ---

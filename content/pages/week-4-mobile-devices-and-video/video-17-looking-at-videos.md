@@ -1,7 +1,10 @@
 ---
 content_type: page
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 'Week 4: Mobile Devices and Video'
+parent_type: SupplementalResourceSection
 parent_uid: c4d8fa32-9368-d373-97b5-8b47a37949ee
 title: 'Video 17: Looking at Videos'
 uid: cb269109-9834-bb9a-36c7-1b2669f17b71

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: 'Week 3: Light'
 uid: eeeb9c39-c411-6437-28bd-a6c9db653dca
 ---

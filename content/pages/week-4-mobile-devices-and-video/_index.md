@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: 'Week 4: Mobile Devices and Video'
 uid: c4d8fa32-9368-d373-97b5-8b47a37949ee
 ---

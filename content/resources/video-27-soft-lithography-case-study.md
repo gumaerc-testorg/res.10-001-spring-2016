@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Video 27: Soft Lithography'
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Video 27: Soft Lithography Case Study'
 uid: 6c0a3be4-59b1-8229-13b0-96438d570de5
 video_files:
   archive_url: https://archive.org/download/MITRES.10-001S16/MITRES_10-001S16_Track32_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016/ac36f66ca01c5a01ac6902013459597b_oOb7kSyOP4s.vtt
+  video_captions_file: /courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016/ac36f66ca01c5a01ac6902013459597b_oOb7kSyOP4s.vtt
   video_thumbnail_file: https://img.youtube.com/vi/oOb7kSyOP4s/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016/cd9b9943da3e2aaa3a113e6ff04b6867_oOb7kSyOP4s.pdf
+  video_transcript_file: /courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016/cd9b9943da3e2aaa3a113e6ff04b6867_oOb7kSyOP4s.pdf
 video_metadata:
   youtube_id: oOb7kSyOP4s
 ---

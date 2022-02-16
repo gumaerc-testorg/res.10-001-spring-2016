@@ -1,7 +1,10 @@
 ---
 content_type: page
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 'Week 2: Camera Basics'
+parent_type: SupplementalResourceSection
 parent_uid: e9b7d229-302e-9b5e-26ca-fb0064d1e556
 title: 'Video 6: Setting the Exposure'
 uid: 629d0481-2875-4237-663b-6629b61b80d9

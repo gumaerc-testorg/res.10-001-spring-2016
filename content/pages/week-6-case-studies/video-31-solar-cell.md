@@ -1,7 +1,10 @@
 ---
 content_type: page
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 'Week 6: Case Studies'
+parent_type: SupplementalResourceSection
 parent_uid: b0e5f8d1-f7e8-6912-1070-2672c5820fcd
 title: 'Video 31: Solar Cell'
 uid: c545a135-26d1-5fbd-5ae7-f30a27def6fe

@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Video 1: Using a Flatbed Scanner'
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Video 1: Using a Flatbed Scanner'
 uid: 057374c5-a0fb-f10a-7117-643362ba387d
 video_files:
   archive_url: https://archive.org/download/MITRES.10-001S16/MITRES_10-001S16_Track02_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016/6ebaa29e42675bba8cdc7c4cbebc5527_W18hxFk9lAQ.vtt
+  video_captions_file: /courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016/6ebaa29e42675bba8cdc7c4cbebc5527_W18hxFk9lAQ.vtt
   video_thumbnail_file: https://img.youtube.com/vi/W18hxFk9lAQ/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016/7dfc536ded9acd885497422f65b42d0c_W18hxFk9lAQ.pdf
+  video_transcript_file: /courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016/7dfc536ded9acd885497422f65b42d0c_W18hxFk9lAQ.pdf
 video_metadata:
   youtube_id: W18hxFk9lAQ
 ---

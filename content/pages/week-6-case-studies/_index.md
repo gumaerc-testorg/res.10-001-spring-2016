@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: 'Week 6: Case Studies'
 uid: b0e5f8d1-f7e8-6912-1070-2672c5820fcd
 ---

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: 'Week 1: Flatbed Scanner'
 uid: a853a8a4-ce86-f23c-55d8-d7d328e32c15
 ---

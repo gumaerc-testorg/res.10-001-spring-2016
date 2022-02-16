@@ -1,7 +1,10 @@
 ---
 content_type: page
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 'Week 6: Case Studies'
+parent_type: SupplementalResourceSection
 parent_uid: b0e5f8d1-f7e8-6912-1070-2672c5820fcd
 title: 'Video 28: Chemical Vapor Deposition'
 uid: 6925a4d1-38a8-c58f-2f45-02956692bb74

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Additional Materials
 uid: 76026f86-1978-0149-19bb-108b31efc99c
 ---

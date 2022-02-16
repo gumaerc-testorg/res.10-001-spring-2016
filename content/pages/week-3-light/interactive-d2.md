@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 'Week 3: Light'
+parent_type: SupplementalResourceSection
 parent_uid: eeeb9c39-c411-6437-28bd-a6c9db653dca
 title: 'Interactive D2: Lighting Comparison'
 uid: 84c75831-86d4-c0ac-5a05-431b1e30cd6a

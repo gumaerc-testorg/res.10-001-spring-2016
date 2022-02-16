@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016/a9af6ca8d7d0c6b31bdbf05839f0ae38_ffOGEN5WZu4.srt
+file: /media/courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016/a9af6ca8d7d0c6b31bdbf05839f0ae38_ffOGEN5WZu4.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: a9af6ca8-d7d0-c6b3-1bdb-f05839f0ae38

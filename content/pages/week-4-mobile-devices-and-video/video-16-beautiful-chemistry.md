@@ -1,7 +1,10 @@
 ---
 content_type: page
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 'Week 4: Mobile Devices and Video'
+parent_type: SupplementalResourceSection
 parent_uid: c4d8fa32-9368-d373-97b5-8b47a37949ee
 title: 'Video 16: "Beautiful Chemistry"'
 uid: db315b16-a672-74e1-a5b2-971933ab0b9d

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: 'Week 2: Camera Basics'
 uid: e9b7d229-302e-9b5e-26ca-fb0064d1e556
 ---

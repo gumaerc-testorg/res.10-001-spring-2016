@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video 30 Stretchable Sensors
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Video 30: Stretchable Sensors Case Study'
 uid: 45073334-66b2-6ea2-d824-d0144a9ee28f
 video_files:
   archive_url: https://archive.org/download/MITRES.10-001S16/MITRES_10-001S16_Track35_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016/1ee295ce8bff573382ead646f7055545_lTTfrBbXeTk.vtt
+  video_captions_file: /courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016/1ee295ce8bff573382ead646f7055545_lTTfrBbXeTk.vtt
   video_thumbnail_file: https://img.youtube.com/vi/lTTfrBbXeTk/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016/b7de41c8fad2762c4ee059bba06a53bd_lTTfrBbXeTk.pdf
+  video_transcript_file: /courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016/b7de41c8fad2762c4ee059bba06a53bd_lTTfrBbXeTk.pdf
 video_metadata:
   youtube_id: lTTfrBbXeTk
 ---

@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 3e5908a6-91ac-b5f9-439c-c37900c37063
 title: Collaborating as a Teaching Team
 uid: 80f03020-3474-5911-66b0-b9c00eddd75a

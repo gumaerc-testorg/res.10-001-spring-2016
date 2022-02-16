@@ -1,7 +1,10 @@
 ---
 content_type: page
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 'Week 2: Camera Basics'
+parent_type: SupplementalResourceSection
 parent_uid: e9b7d229-302e-9b5e-26ca-fb0064d1e556
 title: 'Video 9: Backgrounds'
 uid: 239d17e2-f5b8-719c-b02e-3f7ab74a988f

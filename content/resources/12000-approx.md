@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: A image indicates about 12000 students enrolled.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016/35fc42ede6f4b12327969632246fe7a9_12000-approx.png
+file: /media/courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016/35fc42ede6f4b12327969632246fe7a9_12000-approx.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: 12000 students enrolled
 uid: 35fc42ed-e6f4-b123-2796-9632246fe7a9

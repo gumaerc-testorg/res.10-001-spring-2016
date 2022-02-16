@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 3e5908a6-91ac-b5f9-439c-c37900c37063
 title: 'Instructor Background: Coming Full Circle Back to Science'
 uid: b6ad918e-913d-2617-f4fa-97e028cd36ad

@@ -1,7 +1,10 @@
 ---
 content_type: page
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 'Week 1: Flatbed Scanner'
+parent_type: SupplementalResourceSection
 parent_uid: a853a8a4-ce86-f23c-55d8-d7d328e32c15
 title: 'Video 3: Transmitted and Reflected Light'
 uid: 073e6402-4d19-6d8b-b5f9-89f6f17f2604

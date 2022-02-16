@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 'Week 3: Light'
+parent_type: SupplementalResourceSection
 parent_uid: eeeb9c39-c411-6437-28bd-a6c9db653dca
 title: 'Interactive D1: Lighting Gallery'
 uid: 7c4305e4-9605-f6ec-efee-b7911e5f17b6

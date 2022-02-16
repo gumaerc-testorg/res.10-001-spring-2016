@@ -1,7 +1,10 @@
 ---
 content_type: page
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 'Week 5: Presenting Your Work'
+parent_type: SupplementalResourceSection
 parent_uid: 35b66d4c-e11d-065d-9bdb-9fbc638dcca6
 title: 'Video 19: Time and Scale'
 uid: e302b821-98a3-5379-e3ba-b4b8fb128d25

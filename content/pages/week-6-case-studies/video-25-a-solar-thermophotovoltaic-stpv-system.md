@@ -1,7 +1,10 @@
 ---
 content_type: page
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 'Week 6: Case Studies'
+parent_type: SupplementalResourceSection
 parent_uid: b0e5f8d1-f7e8-6912-1070-2672c5820fcd
 title: 'Video 25: A Solar Thermophotovoltaic (STPV) System'
 uid: 57159fea-6000-bd8b-c126-c71dd7b55f73

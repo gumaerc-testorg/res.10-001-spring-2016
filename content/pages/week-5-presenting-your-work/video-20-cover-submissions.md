@@ -1,7 +1,10 @@
 ---
 content_type: page
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 'Week 5: Presenting Your Work'
+parent_type: SupplementalResourceSection
 parent_uid: 35b66d4c-e11d-065d-9bdb-9fbc638dcca6
 title: 'Video 20: Cover Submissions'
 uid: eb358796-000d-6df1-3613-ee6e4326d54c

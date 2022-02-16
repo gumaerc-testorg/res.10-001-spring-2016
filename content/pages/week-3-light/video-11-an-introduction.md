@@ -1,7 +1,10 @@
 ---
 content_type: page
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 'Week 3: Light'
+parent_type: SupplementalResourceSection
 parent_uid: eeeb9c39-c411-6437-28bd-a6c9db653dca
 title: 'Video 11: An Introduction'
 uid: 6bb5f692-58e5-f687-5bb8-491a08f92fc6

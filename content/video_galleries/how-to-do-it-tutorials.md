@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: How-To-Do-It Tutorials
 uid: 6515112d-d22f-ec63-c5aa-0e0304041c8d
 videos:

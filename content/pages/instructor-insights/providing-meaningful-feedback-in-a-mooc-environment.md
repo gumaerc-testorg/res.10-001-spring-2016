@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 3e5908a6-91ac-b5f9-439c-c37900c37063
 title: Providing Meaningful Feedback in a MOOC Environment
 uid: 5ee9f6d2-da58-4ce8-e720-1f6e29bd5f9f

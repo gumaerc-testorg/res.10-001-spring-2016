@@ -1,7 +1,10 @@
 ---
 content_type: page
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 'Week 6: Case Studies'
+parent_type: SupplementalResourceSection
 parent_uid: b0e5f8d1-f7e8-6912-1070-2672c5820fcd
 title: 'Video 24: Fuel Cells for Mobile Batteries'
 uid: 48465455-1235-6c38-bbc4-ccdf92a234df

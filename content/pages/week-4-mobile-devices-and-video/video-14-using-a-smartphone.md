@@ -1,7 +1,10 @@
 ---
 content_type: page
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: 'Week 4: Mobile Devices and Video'
+parent_type: SupplementalResourceSection
 parent_uid: c4d8fa32-9368-d373-97b5-8b47a37949ee
 title: 'Video 14: Using a Smartphone'
 uid: 7dc6de86-8202-4e64-b902-747fed1cc961

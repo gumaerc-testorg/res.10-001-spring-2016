@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: 'Week 0: About this Course'
 uid: 1330571d-3e61-b779-249c-ab7571b07404
 videos:
