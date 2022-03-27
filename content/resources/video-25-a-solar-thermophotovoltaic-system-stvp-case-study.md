@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Video 25: A Solar Thermophotovoltaic System (STVP) Case Study'
 uid: 8e6ff2c6-57b7-a0b1-2024-776de12e5880
 video_files:

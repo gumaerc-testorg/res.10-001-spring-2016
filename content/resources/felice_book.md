@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Syllabus
 parent_type: SupplementalResourceSection
+parent_uid: 3e95fb4b-e99f-64dd-50b2-c02b053d38ea
 resourcetype: Image
 title: felice_book.jpg
 uid: b5da5304-a605-0a22-9ec8-b7f68206a02c

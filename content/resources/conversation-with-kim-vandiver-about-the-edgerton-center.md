@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: A Conversation with J. Kim Vandiver, Director of the MIT Edgerton Center
 uid: 83ebb1b2-784d-c35d-2780-6f6f9247706c
 video_files:

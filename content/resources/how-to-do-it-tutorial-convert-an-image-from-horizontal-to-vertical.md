@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'How-To-Do-It: Convert an Image from Horizontal to Vertical'
 uid: 4e06eff6-ac7d-bd13-ba4d-124cc6442fcb
 video_files:

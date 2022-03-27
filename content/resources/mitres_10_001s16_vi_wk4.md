@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Week 4: Mobile Devices and Video'
 parent_type: SupplementalResourceSection
+parent_uid: c4d8fa32-9368-d373-97b5-8b47a37949ee
 resourcetype: Document
 title: Making Science and Engineering Pictures Week 4 Visual Index
 uid: 1b5ee602-5f77-8693-4e81-3ba847c86d27

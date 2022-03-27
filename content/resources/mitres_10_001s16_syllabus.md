@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: SupplementalResourceSection
+parent_uid: 3e95fb4b-e99f-64dd-50b2-c02b053d38ea
 resourcetype: Document
 title: Making Science and Engineering Pictures Syllabus
 uid: d5ffe06f-0ff3-eeae-772a-b5cdab22dd5e

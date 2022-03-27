@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'How-To-Do-It: Fix Mobile Distortion'
 uid: 3ecdc69e-6ffc-9e77-4679-fb5fbfe5833a
 video_files:

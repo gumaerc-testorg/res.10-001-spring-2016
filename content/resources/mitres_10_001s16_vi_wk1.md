@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Week 1: Flatbed Scanner'
 parent_type: SupplementalResourceSection
+parent_uid: a853a8a4-ce86-f23c-55d8-d7d328e32c15
 resourcetype: Document
 title: Making Science and Engineering Pictures Week 1 Visual Index
 uid: e85ac4bb-614a-bd64-4666-f604cefc5b91

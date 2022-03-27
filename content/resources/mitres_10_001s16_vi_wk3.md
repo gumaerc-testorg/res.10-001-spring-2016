@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Week 3: Light'
 parent_type: SupplementalResourceSection
+parent_uid: eeeb9c39-c411-6437-28bd-a6c9db653dca
 resourcetype: Document
 title: Making Science and Engineering Picture Week 3 Visual Index
 uid: 3e401e23-a724-61da-b057-e24f957b7e81

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Week 6: Case Studies'
 parent_type: SupplementalResourceSection
+parent_uid: b0e5f8d1-f7e8-6912-1070-2672c5820fcd
 resourcetype: Document
 title: Making Science and Engineering Pictures Week 6 Visual Index
 uid: ce21031f-b40c-b8e2-a7d7-111c39b35b42

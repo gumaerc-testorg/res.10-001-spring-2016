@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Week 2: Camera Basics'
 parent_type: SupplementalResourceSection
+parent_uid: e9b7d229-302e-9b5e-26ca-fb0064d1e556
 resourcetype: Document
 title: Making Science and Engineering Picture Week 2 Summary
 uid: cfb37cbd-ba6e-a251-a1fe-688d049f8402

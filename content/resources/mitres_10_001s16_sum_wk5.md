@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Week 5: Presenting Your Work'
 parent_type: SupplementalResourceSection
+parent_uid: 35b66d4c-e11d-065d-9bdb-9fbc638dcca6
 resourcetype: Document
 title: Making Science and Engineering Pictures Week 5 Summary
 uid: c543d91d-008b-931e-feac-25275d814633

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Additional Materials
 parent_type: SupplementalResourceSection
+parent_uid: 76026f86-1978-0149-19bb-108b31efc99c
 resourcetype: Document
 title: RES.10-001 S16 Sightings article in American Scientist from September-October
   2007 (1)
