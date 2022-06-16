@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Video 4: Enhancing the Scanned Image'
@@ -30,3 +31,6 @@ video_metadata:
 ##### Viewing Recommendation
 
 If you are using a laptop or desktop computer, we recommend you watch the video in full screen mode in high definition (HD).
+
+
+

@@ -1,12 +1,16 @@
 ---
 content_type: page
+description: This section provides an overview of how to make images with a smartphone
+  or tablet and an examination of videos taken in this medium.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: 'Week 4: Mobile Devices and Video'
 uid: c4d8fa32-9368-d373-97b5-8b47a37949ee
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-3-light/interactive-d2) | [Next]({{< baseurl >}}/resources/video-14-using-a-smartphone) »
+« {{% resource_link 84c75831-86d4-c0ac-5a05-431b1e30cd6a "Previous" %}} | {{% resource_link 61b902b2-1ff3-85e8-0755-c7db49edaa95 "Next" %}} »
 
 We'll be on the go this week with smartphone cameras and video.
 
@@ -24,13 +28,13 @@ What You'll Need
 Course Videos
 -------------
 
-[Video 14: Using a Smartphone]({{< baseurl >}}/resources/video-14-using-a-smartphone)
+{{% resource_link 61b902b2-1ff3-85e8-0755-c7db49edaa95 "Video 14: Using a Smartphone" %}}
 
-[Video 15: Imaging with a Tablet Camera]({{< baseurl >}}/resources/video-15-imaging-with-a-tablet-camera)
+{{% resource_link 1d2ca474-11dd-271d-7861-8cbe201928be "Video 15: Imaging with a Tablet Camera" %}}
 
-[Video 16: "Beautiful Chemistry"]({{< baseurl >}}/resources/video-16-beautiful-chemistry)
+{{% resource_link ffe713b6-196d-bfdf-a9a5-c23abe8a23fe "Video 16: \"Beautiful Chemistry\"" %}}
 
-[Video 17: Looking at Videos]({{< baseurl >}}/resources/video-17-looking-at-videos)
+{{% resource_link 81458d3d-cfc1-c733-9b9a-113fcf8fad82 "Video 17: Looking at Videos" %}}
 
 Assignment
 ----------
@@ -42,11 +46,11 @@ Assignment
 Visual Index
 ------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Week 4 Visual Index (PDF)]({{< baseurl >}}/resources/mitres_10_001s16_vi_wk4)
+{{% resource_link 1b5ee602-5f77-8693-4e81-3ba847c86d27 "Week 4 Visual Index (PDF)" %}}
 
 Summing Up
 ----------
 
-[Week 4 Summary (PDF)]({{< baseurl >}}/resources/mitres_10_001s16_sum_wk4)
+{{% resource_link edb5fc5d-8681-fec0-f1ae-6ec4cf71f403 "Week 4 Summary (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/week-3-light/interactive-d2) | [Next]({{< baseurl >}}/resources/video-14-using-a-smartphone) »
+« {{% resource_link 84c75831-86d4-c0ac-5a05-431b1e30cd6a "Previous" %}} | {{% resource_link 61b902b2-1ff3-85e8-0755-c7db49edaa95 "Next" %}} »

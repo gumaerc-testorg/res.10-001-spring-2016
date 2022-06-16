@@ -1,10 +1,14 @@
 ---
 content_type: video_gallery
+description: This section contains videos that provide step by step directions on
+  using equipment related to the course.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: How-To-Do-It Tutorials
 uid: 6515112d-d22f-ec63-c5aa-0e0304041c8d
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - 411f23be-5939-ab21-fac9-fc38a9dc4ba2
@@ -15,11 +19,11 @@ videos:
   website: res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-6-case-studies/video-31-solar-cell) | [Next]({{< baseurl >}}/video_galleries/guest_interviews) »
+« {{% resource_link c545a135-26d1-5fbd-5ae7-f30a27def6fe "Previous" %}} | {{% resource_link e4e75018-67ee-17ef-4b31-55a10ea56b67 "Next" %}} »
 
 {{< video-gallery "6515112d-d22f-ec63-c5aa-0e0304041c8d" >}}
 
 
-[How-To-Do-It Tutorial: Egg on the Scanner (PDF)]({{< baseurl >}}/resources/mitres_10_002s16_hwtodoit)
+{{% resource_link 23a4c887-2986-dd28-b041-31b4f04e45ee "How-To-Do-It Tutorial: Egg on the Scanner (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/week-6-case-studies/video-31-solar-cell) | [Next]({{< baseurl >}}/video_galleries/guest_interviews) »
+« {{% resource_link c545a135-26d1-5fbd-5ae7-f30a27def6fe "Previous" %}} | {{% resource_link e4e75018-67ee-17ef-4b31-55a10ea56b67 "Next" %}} »

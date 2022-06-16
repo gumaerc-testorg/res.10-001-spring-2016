@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Felice Frankel shares how her teaching team used VoiceThread
+  and rubrics to provide MOOC participants with meaningful feedback.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -8,6 +10,8 @@ parent_type: ThisCourseAtMITSection
 parent_uid: 3e5908a6-91ac-b5f9-439c-c37900c37063
 title: Providing Meaningful Feedback in a MOOC Environment
 uid: 5ee9f6d2-da58-4ce8-e720-1f6e29bd5f9f
+video_metadata:
+  youtube_id: null
 ---
 
 _In this section, Felice Frankel shares how her teaching team used [VoiceThread](https://voicethread.com/) and rubrics to provide MOOC participants with meaningful feedback._

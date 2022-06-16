@@ -1,12 +1,15 @@
 ---
 content_type: page
+description: This section provides information about course goals and course assignments.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Syllabus
 uid: 3e95fb4b-e99f-64dd-50b2-c02b053d38ea
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous](/resources/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016) | [Next](/resources/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016/instructor-insights) »
+« {{% resource_link sitemetadata "Previous" %}} | {{% resource_link 3e5908a6-91ac-b5f9-439c-c37900c37063 "Next" %}} »
 
 Textbook
 --------
@@ -18,7 +21,7 @@ A book is now available, based on the materials in this OCW resource.
 2015 Syllabus
 -------------
 
-In 2015, Felice C. Frankel taught this course as an MITx Massive Open Online Course (MOOC) on the Edx platform. We have included the the [syllabus (PDF)](/resources/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016/syllabus/MITRES_10_001S16_syllabus.pdf) that was used to teach the course. 
+In 2015, Felice C. Frankel taught this course as an MITx Massive Open Online Course (MOOC) on the Edx platform. We have included the the {{% resource_link d5ffe06f-0ff3-eeae-772a-b5cdab22dd5e "syllabus (PDF)" %}} that was used to teach the course. 
 
 How to Cite This Course
 -----------------------
@@ -56,4 +59,4 @@ In order to complete the course assignments you will need access to a:
 *   tripod
 *   smartphone or tablet with camera
 
-« [Previous](/resources/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016) | [Next](/resources/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016/instructor-insights) »
+« {{% resource_link sitemetadata "Previous" %}} | {{% resource_link 3e5908a6-91ac-b5f9-439c-c37900c37063 "Next" %}} »

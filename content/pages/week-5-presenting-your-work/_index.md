@@ -1,12 +1,16 @@
 ---
 content_type: page
+description: This section investigates how best to incorporate your picture into figures
+  for publication.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: 'Week 5: Presenting Your Work'
 uid: 35b66d4c-e11d-065d-9bdb-9fbc638dcca6
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-4-mobile-devices-and-video/video-17-looking-at-videos) | [Next]({{< baseurl >}}/pages/week-5-presenting-your-work/video-18-designing-graphics) »
+« {{% resource_link cb269109-9834-bb9a-36c7-1b2669f17b71 "Previous" %}} | {{% resource_link 094bbe36-de63-39b5-a9c8-677eee753329 "Next" %}} »
 
 Once you've captured a quality image of your device or object, there is still work to do. This week we will investigate how best to incorporate your pictures into figures for publication, and to use them as powerful means to speak with the public. In addition, an important component in this week will be a discussion of image enhancement—how far are we permitted to go when adjusting images in science?
 
@@ -18,15 +22,15 @@ Using your photographs in figures, showing scale, movement, and submitting for c
 Course Videos
 -------------
 
-[Video 18: Designing Graphics]({{< baseurl >}}/resources/video-18-designing-graphics)
+{{% resource_link e5d69327-0b10-332c-a3df-536eb6eeb285 "Video 18: Designing Graphics" %}}
 
-[Video 19: Time and Scale]({{< baseurl >}}/resources/video-19-time-and-scale)
+{{% resource_link 29a849f6-34b2-cc69-74a1-8bc2250139be "Video 19: Time and Scale" %}}
 
-[Video 20: Cover Submissions]({{< baseurl >}}/resources/video-20-cover-submissions)
+{{% resource_link "78391509-2bc5-fa7f-2914-d5284b0cb6c0" "Video 20: Cover Submissions" %}}
 
-[Video 21: Image "Enhancement"]({{< baseurl >}}/resources/video-21-image-enhancement)
+{{% resource_link 163d5c43-fe19-aa96-bd7d-bdacb09081a4 "Video 21: Image \"Enhancement\"" %}}
 
-[Video 22: Speaking to the Public]({{< baseurl >}}/resources/video-22-speaking-to-the-public)
+{{% resource_link ba59f610-e173-e803-b23c-14ae68c739f0 "Video 22: Speaking to the Public" %}}
 
 [Guest Lecture: Kelly Krause, Creative Director, _Nature_](https://www.linkedin.com/in/kelly-krause-9a80ab5)
 
@@ -45,11 +49,11 @@ Assignment
 Visual Index
 ------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Week 5 Visual Index (PDF)]({{< baseurl >}}/resources/mitres_10_001s16_vi_wk5)
+{{% resource_link a1a03914-81b9-f1b0-88cb-fe4cc9a9a142 "Week 5 Visual Index (PDF)" %}}
 
 Summing Up
 ----------
 
-[Week 5 Summary (PDF)]({{< baseurl >}}/resources/mitres_10_001s16_sum_wk5)
+{{% resource_link c543d91d-008b-931e-feac-25275d814633 "Week 5 Summary (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/week-4-mobile-devices-and-video/video-17-looking-at-videos) | [Next]({{< baseurl >}}/pages/week-5-presenting-your-work/video-18-designing-graphics) »
+« {{% resource_link cb269109-9834-bb9a-36c7-1b2669f17b71 "Previous" %}} | {{% resource_link 094bbe36-de63-39b5-a9c8-677eee753329 "Next" %}} »

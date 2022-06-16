@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Guest Interviews
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Felice Frankel has a conversation with Christine Daniloff about the images used on the MIT homepage.
 
 **Instructor:** Felice Frankel and Christine Daniloff
+
+
+

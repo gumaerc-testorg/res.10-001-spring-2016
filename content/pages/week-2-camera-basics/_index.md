@@ -1,12 +1,15 @@
 ---
 content_type: page
+description: You will learn the important technical aspects of making successful photographs.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: 'Week 2: Camera Basics'
 uid: e9b7d229-302e-9b5e-26ca-fb0064d1e556
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-1-flatbed-scanner/video-4-enhancing-the-scanned-image) | [Next]({{< baseurl >}}/resources/video-5-camera-and-lens) »
+« {{% resource_link 149d967e-7fee-b0ca-652c-35b49375aa8b "Previous" %}} | {{% resource_link ab2d32c1-65fe-84e3-e66a-12d4706fbfc8 "Next" %}} »
 
 This week you will learn the important technical aspects of making successful photographs and how to make aesthetic decisions.
 
@@ -28,17 +31,17 @@ What You'll Need
 Course Videos
 -------------
 
-[Video 5: Camera and Lens]({{< baseurl >}}/resources/video-5-camera-and-lens)
+{{% resource_link ab2d32c1-65fe-84e3-e66a-12d4706fbfc8 "Video 5: Camera and Lens" %}}
 
-[Video 6: Setting the Exposure]({{< baseurl >}}/resources/video-6-setting-the-exposure)
+{{% resource_link b907e7f8-3469-0c6d-dc37-0dcb018fbcd7 "Video 6: Setting the Exposure" %}}
 
-[Video 7: Aperture]({{< baseurl >}}/resources/video-7-aperture)
+{{% resource_link 224c82e7-78b6-2eee-a43c-fe7ebc8ce869 "Video 7: Aperture" %}}
 
-[Video 8: Composition]({{< baseurl >}}/resources/video-8-composition)
+{{% resource_link 8804c494-fbb2-b2c0-5b46-488050935579 "Video 8: Composition" %}}
 
-[Video 9: Backgrounds]({{< baseurl >}}/resources/video-9-backgrounds)
+{{% resource_link 64f3131c-c883-7dcf-afab-f43a1d842a18 "Video 9: Backgrounds" %}}
 
-[Video 10: Point of View]({{< baseurl >}}/resources/video-10-point-of-view)
+{{% resource_link ae7e2f2a-7274-97be-7483-63e58cfc205c "Video 10: Point of View" %}}
 
 Assignment
 ----------
@@ -51,11 +54,11 @@ Assignment
 Visual Index
 ------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Week 2 Visual Index (PDF)]({{< baseurl >}}/resources/mitres_10_001s16_vi_wk2)
+{{% resource_link 2b73f9ee-6671-dd35-b065-6f522ca0fe6f "Week 2 Visual Index (PDF)" %}}
 
 Summing Up
 ----------
 
-[Week 2 Summary (PDF)]({{< baseurl >}}/resources/mitres_10_001s16_sum_wk2)
+{{% resource_link cfb37cbd-ba6e-a251-a1fe-688d049f8402 "Week 2 Summary (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/week-1-flatbed-scanner/video-4-enhancing-the-scanned-image) | [Next]({{< baseurl >}}/resources/video-5-camera-and-lens) »
+« {{% resource_link 149d967e-7fee-b0ca-652c-35b49375aa8b "Previous" %}} | {{% resource_link ab2d32c1-65fe-84e3-e66a-12d4706fbfc8 "Next" %}} »

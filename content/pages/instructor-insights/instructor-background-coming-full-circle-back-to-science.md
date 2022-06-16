@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Felice Frankel shares how she began creating science
+  and engineering pictures.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -8,6 +10,8 @@ parent_type: ThisCourseAtMITSection
 parent_uid: 3e5908a6-91ac-b5f9-439c-c37900c37063
 title: 'Instructor Background: Coming Full Circle Back to Science'
 uid: b6ad918e-913d-2617-f4fa-97e028cd36ad
+video_metadata:
+  youtube_id: null
 ---
 
 _In this section, Felice Frankel shares how she began creating science and engineering pictures._

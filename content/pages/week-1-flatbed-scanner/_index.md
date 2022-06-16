@@ -1,12 +1,16 @@
 ---
 content_type: page
+description: This section presents an overview of the videos, topics, and assignment
+  for the first week.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: 'Week 1: Flatbed Scanner'
 uid: a853a8a4-ce86-f23c-55d8-d7d328e32c15
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/video_galleries/week-0-about-this-course) | [Next]({{< baseurl >}}/resources/video-1-using-a-flatbed-scanner) »
+« {{% resource_link 1330571d-3e61-b779-249c-ab7571b07404 "Previous" %}} | {{% resource_link 057374c5-a0fb-f10a-7117-643362ba387d "Next" %}} »
 
 This week we will use a flatbed scanner to create images. This is all about experimentation, so have some fun, and see what you can come up with.
 
@@ -32,20 +36,20 @@ As a reminder, here are the criteria for choosing your device or object, which w
 Course Videos
 -------------
 
-[Video 1: Using a Flatbed Scanner]({{< baseurl >}}/resources/video-1-using-a-flatbed-scanner)
+{{% resource_link 057374c5-a0fb-f10a-7117-643362ba387d "Video 1: Using a Flatbed Scanner" %}}
 
-[Video 2: Placing Objects on the Scanner]({{< baseurl >}}/resources/video-2-placing-objects-on-the-scanner)
+{{% resource_link 7c6fc425-d362-3ae0-a78e-6673ae49c585 "Video 2: Placing Objects on the Scanner" %}}
 
-[Video 3: Transmitted and Reflected Light]({{< baseurl >}}/resources/video-3-transmitted-and-reflected-light)
+{{% resource_link 02366522-83b5-723e-3a45-150b4fc08efb "Video 3: Transmitted and Reflected Light" %}}
 
-[Video 4: Enhancing the Scanned Image]({{< baseurl >}}/resources/video-4-enhancing-the-scanned-image)
+{{% resource_link abe99ec7-7877-d198-b28e-ee6137daca80 "Video 4: Enhancing the Scanned Image" %}}
 
 Assignment
 ----------
 
 This week you will create scanned image of your object / device. Be aware of your settings and choices. For example:
 
-Using the "preview mode" on your scanner software, tighten the frame close to your object and scan that at 300 DPI in order to obtain a rich level of detail. The higher the DPI, the more information, giving you options for zooming, cropping, and exploring your image. Refer to the [How-To-Do-It tutorial "Set Your Scanner"]({{< baseurl >}}/resources/how-to-do-it-tutorial-set-your-scanner) for more detail about DPI. When creating your image, take note of the default scanner settings and uncheck all color corrections.
+Using the "preview mode" on your scanner software, tighten the frame close to your object and scan that at 300 DPI in order to obtain a rich level of detail. The higher the DPI, the more information, giving you options for zooming, cropping, and exploring your image. Refer to the {{% resource_link 6a6637d9-8ac4-a7f4-2366-609f7e7b0716 "How-To-Do-It tutorial \"Set Your Scanner\"" %}} for more detail about DPI. When creating your image, take note of the default scanner settings and uncheck all color corrections.
 
 Consider the orientation of your image (landscape or portrait).
 
@@ -63,11 +67,11 @@ If you do not have access to the appropriate scanner needed for this assignment,
 Visual Index
 ------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Week 1 Visual Index (PDF)]({{< baseurl >}}/resources/mitres_10_001s16_vi_wk1)
+{{% resource_link e85ac4bb-614a-bd64-4666-f604cefc5b91 "Week 1 Visual Index (PDF)" %}}
 
 Summing Up
 ----------
 
-[Week 1 Summary (PDF)]({{< baseurl >}}/resources/mitres_10_001s16_sum_wk1)
+{{% resource_link 8510332a-b158-4aa5-612c-67077442c4f0 "Week 1 Summary (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/video_galleries/week-0-about-this-course) | [Next]({{< baseurl >}}/resources/video-1-using-a-flatbed-scanner) »
+« {{% resource_link 1330571d-3e61-b779-249c-ab7571b07404 "Previous" %}} | {{% resource_link 057374c5-a0fb-f10a-7117-643362ba387d "Next" %}} »

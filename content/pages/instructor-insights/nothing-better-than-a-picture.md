@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: "In this section, Felice Frankel describes making pictures as \u201C\
+  an act of discovery\u201D for both the scientist and his or her audiences. She also\
+  \ shares how she hopes her work as an educator will inspire scientists to demand\
+  \ better images of the photographers they work with, in order to convey complicated\
+  \ concepts in their work.  "
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -8,6 +13,8 @@ parent_type: ThisCourseAtMITSection
 parent_uid: 3e5908a6-91ac-b5f9-439c-c37900c37063
 title: 'Nothing Better than a Picture '
 uid: 97e48da7-126b-04f0-2faa-6006c668de19
+video_metadata:
+  youtube_id: null
 ---
 
 _In this section, Felice Frankel describes making pictures as “an act of discovery” for both the scientist and his or her audiences. She also shares how she hopes her work as an educator will inspire scientists to demand better images of the photographers they work with, in order to convey complicated concepts in their work._

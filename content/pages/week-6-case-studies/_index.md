@@ -1,12 +1,16 @@
 ---
 content_type: page
+description: In this section, the class will examine unique visual challenges through
+  a series of photographic case studies.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: 'Week 6: Case Studies'
 uid: b0e5f8d1-f7e8-6912-1070-2672c5820fcd
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/week-5-presenting-your-work/video-22-speaking-to-the-public) | [Next]({{< baseurl >}}/pages/week-6-case-studies/video-23-liquid-battery) »
+« {{% resource_link ed233323-5f5c-feb0-6b99-5180b14b9960 "Previous" %}} | {{% resource_link 879c128f-649f-2f1f-4d77-9a0cb8a45095 "Next" %}} »
 
 This week we will examine unique visual challenges through a series of photographic cases.
 
@@ -18,32 +22,32 @@ An analysis of what we've learned over the preceding five weeks, and an in-depth
 Course Videos
 -------------
 
-[Video 23: Liquid Battery]({{< baseurl >}}/resources/video-23-liquid-battery-case-study)
+{{% resource_link bc6d52c1-4f08-1b7c-e9ef-ba3b5ca00149 "Video 23: Liquid Battery" %}}
 
-[Video 24: Fuel Cells for Mobile Batteries]({{< baseurl >}}/resources/video-24-fuel-cells-for-mobile-batteries-case-study)
+{{% resource_link 68fadf23-90ac-f005-ac50-9feb056ba088 "Video 24: Fuel Cells for Mobile Batteries" %}}
 
-[Video 25: A Solar Thermophotovoltaic (STPV) System]({{< baseurl >}}/resources/video-25-a-solar-thermophotovoltaic-system-stvp-case-study)
+{{% resource_link 8e6ff2c6-57b7-a0b1-2024-776de12e5880 "Video 25: A Solar Thermophotovoltaic (STPV) System" %}}
 
-[Video 26: Microneedles]({{< baseurl >}}/resources/video-26-microneedles-case-study)
+{{% resource_link 1a42e010-717e-088a-8e9a-66b551f32fa9 "Video 26: Microneedles" %}}
 
-[Video 27: Soft Lithography]({{< baseurl >}}/resources/video-27-soft-lithography-case-study)
+{{% resource_link 6c0a3be4-59b1-8229-13b0-96438d570de5 "Video 27: Soft Lithography" %}}
 
-[Video 28: Chemical Vapor Deposition]({{< baseurl >}}/resources/video-28-chemical-vapor-deposition-case-study)
+{{% resource_link e447ec89-e4e3-23bc-0e01-12e119b7b45c "Video 28: Chemical Vapor Deposition" %}}
 
-[Video 29: Analytical Microreactor]({{< baseurl >}}/resources/video-29-analytical-microreactor-case-study)
+{{% resource_link 8f9e679b-b438-1ed6-f5fa-d4b596a341e3 "Video 29: Analytical Microreactor" %}}
 
-[Video 30 Stretchable Sensors]({{< baseurl >}}/resources/video-30-stretchable-sensors-case-study)
+{{% resource_link 45073334-66b2-6ea2-d824-d0144a9ee28f "Video 30 Stretchable Sensors" %}}
 
-[Video 31: Solar Cell]({{< baseurl >}}/resources/video-31-solar-cell-case-study)
+{{% resource_link 449d23a6-f871-f82f-90d0-3245aa322e53 "Video 31: Solar Cell" %}}
 
 Visual Index
 ------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Week 6 Visual Index (PDF)]({{< baseurl >}}/resources/mitres_10_001s16_vi_wk6)
+{{% resource_link ce21031f-b40c-b8e2-a7d7-111c39b35b42 "Week 6 Visual Index (PDF)" %}}
 
 Summing Up
 ----------
 
-[Week 6 Summary (PDF)]({{< baseurl >}}/resources/mitres_10_001s16_sum_wk6)
+{{% resource_link 44cb9751-e900-4dc8-2239-5ddbd01d5bcb "Week 6 Summary (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/week-5-presenting-your-work/video-22-speaking-to-the-public) | [Next]({{< baseurl >}}/pages/week-6-case-studies/video-23-liquid-battery) »
+« {{% resource_link ed233323-5f5c-feb0-6b99-5180b14b9960 "Previous" %}} | {{% resource_link 879c128f-649f-2f1f-4d77-9a0cb8a45095 "Next" %}} »

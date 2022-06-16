@@ -1,10 +1,13 @@
 ---
 content_type: video_gallery
+description: 'This page contains conversations Felice had with experts in the field. '
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Guest Interviews
 uid: e4e75018-67ee-17ef-4b31-55a10ea56b67
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - 5debce8f-fcfd-2884-95b4-e9721ab1674d
@@ -13,9 +16,9 @@ videos:
   website: res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016
 ---
 
- « [Previous]({{< baseurl >}}/video_galleries/how-to-do-it-tutorials) | [Next]({{< baseurl >}}/pages/additional-materials) »
+ « {{% resource_link 6515112d-d22f-ec63-c5aa-0e0304041c8d "Previous" %}} | {{% resource_link 76026f86-1978-0149-19bb-108b31efc99c "Next" %}} »
 
- [![felice.jpg]({{< resource_file 08c5d244-6b79-3e02-dd62-674dd8743e93 >}})](http://webcast.amps.ms.mit.edu/sum2015/ODL/1530/2/ "A Conversation with Kelly Krause, Creative Director for Nature") 
+ {{< resource uuid="08c5d244-6b79-3e02-dd62-674dd8743e93" href="http://webcast.amps.ms.mit.edu/sum2015/ODL/1530/2/" >}} 
 
   
 
@@ -24,4 +27,4 @@ videos:
 {{< video-gallery "e4e75018-67ee-17ef-4b31-55a10ea56b67" >}}
 
 
- _«_ [_Previous_]({{< baseurl >}}/video_galleries/how-to-do-it-tutorials) _|_ [_Next_]({{< baseurl >}}/pages/additional-materials) _»_
+ _«_ {{% resource_link 6515112d-d22f-ec63-c5aa-0e0304041c8d "_Previous_" %}} _|_ {{% resource_link 76026f86-1978-0149-19bb-108b31efc99c "_Next_" %}} _»_

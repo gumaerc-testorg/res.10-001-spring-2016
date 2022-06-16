@@ -1,17 +1,21 @@
 ---
 content_type: video_gallery
+description: This section contains an introductory video and information about getting
+  started.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: 'Week 0: About this Course'
 uid: 1330571d-3e61-b779-249c-ab7571b07404
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - f2f629c9-b50d-7596-7261-d08c415924cf
   website: res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016
 ---
 
-« [Previous]({{< baseurl >}}/pages/instructor-insights) | [Next]({{< baseurl >}}/pages/week-1-flatbed-scanner) »
+« {{% resource_link 3e5908a6-91ac-b5f9-439c-c37900c37063 "Previous" %}} | {{% resource_link a853a8a4-ce86-f23c-55d8-d7d328e32c15 "Next" %}} »
 
 {{< video-gallery "1330571d-3e61-b779-249c-ab7571b07404" >}}
 
@@ -65,4 +69,4 @@ Consider and select a device or object that you will photograph throughout the c
 *   Use the camera software to adjust camera settings and to download images to your computer.
 *   Store your images in a separate folder on your computer (not an intervening photo processing application like iPhoto).
 
-« [Previous]({{< baseurl >}}/pages/instructor-insights) | [Next]({{< baseurl >}}/pages/week-1-flatbed-scanner) »
+« {{% resource_link 3e5908a6-91ac-b5f9-439c-c37900c37063 "Previous" %}} | {{% resource_link a853a8a4-ce86-f23c-55d8-d7d328e32c15 "Next" %}} »

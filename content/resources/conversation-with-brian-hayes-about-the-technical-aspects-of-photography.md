@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Guest Interviews
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Felice Frankel and Brian Hayes have a conversation about what exactly goes on, from a technical perspective, when you make an image.
 
 **Instructors:** Felice Frankel and Brian Hayes
+
+
+

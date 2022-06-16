@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Week 0: About this Course'
@@ -26,3 +27,6 @@ video_metadata:
 **Description:** Felice Frankel introduces the goals of the course and what students can expect to learn as they go through the material.
 
 **Instructor:** Felice Frankel
+
+
+
