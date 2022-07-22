@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 optional_tab_title: ''
 optional_text: ''
 parent_title: 'Video 20: Cover Submissions'
@@ -30,6 +31,4 @@ video_metadata:
 ##### Viewing Recommendation
 
 If you are using a laptop or desktop computer, we recommend you watch the video in full screen mode in high definition (HD).
-
-
 
