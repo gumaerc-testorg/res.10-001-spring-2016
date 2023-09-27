@@ -62,8 +62,10 @@
   "learning_resource_types": [
     "Course Introduction",
     "Lecture Videos",
-    "Activity Assignments with Examples"
+    "Activity Assignments with Examples",
+    "Instructor Insights"
   ],
-  "site_uid": "dba6d469-f960-49bb-bfc3-96c1179ef53b",
+  "site_uid": "9948f1ee-7079-494f-a233-0fd086286421",
+  "site_short_id": "res.10-001-spring-2016",
   "title": "Course Metadata"
 }
