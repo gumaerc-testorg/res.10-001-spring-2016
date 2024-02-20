@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016/4d4f56f674d26ad15f89244c2b6ec24f_cnF_eoMHbmQ.pdf
+file_size: 25238
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

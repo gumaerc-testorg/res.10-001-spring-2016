@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information regarding sightings article in american
   scientist from march-april 2007.
 file: /courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016/d3be499d5e47cf47085bc9ca98d4080f_MITRES_10_001S16_MarchApril07.pdf
+file_size: 842493
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
