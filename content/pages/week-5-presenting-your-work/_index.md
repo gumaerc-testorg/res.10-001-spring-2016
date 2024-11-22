@@ -2,14 +2,14 @@
 content_type: page
 description: This section investigates how best to incorporate your picture into figures
   for publication.
+draft: true
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
-title: 'Week 5: Presenting Your Work'
+title: 'Week 5: Presenting Your Work DELETE'
 uid: 35b66d4c-e11d-065d-9bdb-9fbc638dcca6
 video_metadata:
   youtube_id: null
 ---
-
 « {{% resource_link cb269109-9834-bb9a-36c7-1b2669f17b71 "Previous" %}} | {{% resource_link 094bbe36-de63-39b5-a9c8-677eee753329 "Next" %}} »
 
 Once you've captured a quality image of your device or object, there is still work to do. This week we will investigate how best to incorporate your pictures into figures for publication, and to use them as powerful means to speak with the public. In addition, an important component in this week will be a discussion of image enhancement—how far are we permitted to go when adjusting images in science?

@@ -1,14 +1,14 @@
 ---
 content_type: page
 description: You will learn the important technical aspects of making successful photographs.
+draft: true
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
-title: 'Week 2: Camera Basics'
+title: 'Week 2: Camera Basics DELETE'
 uid: e9b7d229-302e-9b5e-26ca-fb0064d1e556
 video_metadata:
   youtube_id: null
 ---
-
 « {{% resource_link 149d967e-7fee-b0ca-652c-35b49375aa8b "Previous" %}} | {{% resource_link ab2d32c1-65fe-84e3-e66a-12d4706fbfc8 "Next" %}} »
 
 This week you will learn the important technical aspects of making successful photographs and how to make aesthetic decisions.

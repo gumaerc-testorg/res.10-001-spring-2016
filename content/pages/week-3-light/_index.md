@@ -2,14 +2,14 @@
 content_type: page
 description: In this section, you will find information about the use of light when
   creating images.
+draft: true
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
-title: 'Week 3: Light'
+title: 'Week 3: Light DELETE'
 uid: eeeb9c39-c411-6437-28bd-a6c9db653dca
 video_metadata:
   youtube_id: null
 ---
-
 « {{% resource_link ad4f4433-a4bc-33e6-a432-458af507a429 "Previous" %}} | {{% resource_link 7a69e196-0811-3f23-666b-7679a7dbc031 "Next" %}} »
 
 The Greek roots of the word photography are "photos" (meaning light) and "graphé" (meaning drawing). Taken together photography means "drawing with light." In this week, we will investigate light.
