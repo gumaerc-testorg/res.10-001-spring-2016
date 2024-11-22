@@ -2,11 +2,11 @@
 content_type: video_gallery
 description: This section contains videos that provide step by step directions on
   using equipment related to the course.
-draft: false
+draft: true
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
-title: How-To-Do-It Tutorials
+title: How-To-Do-It Tutorials DELETE
 uid: 6515112d-d22f-ec63-c5aa-0e0304041c8d
 video_metadata:
   youtube_id: null

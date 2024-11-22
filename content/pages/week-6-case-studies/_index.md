@@ -2,14 +2,14 @@
 content_type: page
 description: In this section, the class will examine unique visual challenges through
   a series of photographic case studies.
+draft: true
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
-title: 'Week 6: Case Studies'
+title: 'Week 6: Case Studies DELETE'
 uid: b0e5f8d1-f7e8-6912-1070-2672c5820fcd
 video_metadata:
   youtube_id: null
 ---
-
 « {{% resource_link ed233323-5f5c-feb0-6b99-5180b14b9960 "Previous" %}} | {{% resource_link 879c128f-649f-2f1f-4d77-9a0cb8a45095 "Next" %}} »
 
 This week we will examine unique visual challenges through a series of photographic cases.

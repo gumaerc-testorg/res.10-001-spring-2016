@@ -2,6 +2,7 @@
 content_type: page
 description: In this section, Felice Frankel shares how she began creating science
   and engineering pictures.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -13,7 +14,6 @@ uid: b6ad918e-913d-2617-f4fa-97e028cd36ad
 video_metadata:
   youtube_id: null
 ---
-
 _In this section, Felice Frankel shares how she began creating science and engineering pictures._
 
 My undergraduate degree is in biology and chemistry, but I don’t have a graduate degree in the sciences. The story of how I began creating science and engineering pictures started when my husband, who was in Vietnam during the height of the war, bought me a very fine camera. This detail is not trivial, because having good equipment makes a difference. I started playing around with the camera, and when he came home, we moved to a town where I started volunteering as a photographer for a local PBS station. For one of the projects, I was sent to photograph a building under construction. The architect asked me if I knew how to take architectural pictures. I said, “Oh, sure.” But I had never taken architectural photographs before in my life! It turned out I had a knack for taking pictures of spaces and interiors.
