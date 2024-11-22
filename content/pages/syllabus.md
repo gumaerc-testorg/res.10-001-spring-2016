@@ -11,9 +11,7 @@ video_metadata:
 ---
 ## Textbook
 
-A book is now available, based on the materials in this OCW resource.
-
-[![Buy at MIT Press](/images/mp_logo.gif)](http://mitpress.mit.edu/9780262038553) Frankel, Felice. [*Picturing Science and Engineering*](http://mitpress.mit.edu/9780262038553). MIT Press, 2018. ISBN: 9780262038553.
+Frankel, Felice. *Picturing Science and Engineering*. MIT Press, 2018. ISBN: 9780262038553. \[Note: Now out of print.\]
 
 ## 2015 Syllabus
 
