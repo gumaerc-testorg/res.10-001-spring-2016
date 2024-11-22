@@ -2,14 +2,14 @@
 content_type: page
 description: This section presents an overview of the videos, topics, and assignment
   for the first week.
+draft: false
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
-title: 'Week 1: Flatbed Scanner'
+title: 'Week 1: Flatbed Scanner DELETE'
 uid: a853a8a4-ce86-f23c-55d8-d7d328e32c15
 video_metadata:
   youtube_id: null
 ---
-
 « {{% resource_link 1330571d-3e61-b779-249c-ab7571b07404 "Previous" %}} | {{% resource_link 057374c5-a0fb-f10a-7117-643362ba387d "Next" %}} »
 
 This week we will use a flatbed scanner to create images. This is all about experimentation, so have some fun, and see what you can come up with.

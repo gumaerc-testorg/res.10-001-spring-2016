@@ -2,11 +2,11 @@
 content_type: video_gallery
 description: This section contains an introductory video and information about getting
   started.
-draft: false
+draft: true
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
-title: 'Week 0: About this Course'
+title: 'Week 0: About this Course DELETE'
 uid: 1330571d-3e61-b779-249c-ab7571b07404
 video_metadata:
   youtube_id: null
@@ -15,6 +15,8 @@ videos:
   - f2f629c9-b50d-7596-7261-d08c415924cf
   website: res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016
 ---
+DO NOT USE
+
 A gentle introduction to the course ahead with activities designed to introduce you to your tools.
 
 ## What You'll Need

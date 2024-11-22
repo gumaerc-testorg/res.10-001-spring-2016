@@ -2,14 +2,14 @@
 content_type: page
 description: This section provides an overview of how to make images with a smartphone
   or tablet and an examination of videos taken in this medium.
+draft: true
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
-title: 'Week 4: Mobile Devices and Video'
+title: 'Week 4: Mobile Devices and Video DELETE'
 uid: c4d8fa32-9368-d373-97b5-8b47a37949ee
 video_metadata:
   youtube_id: null
 ---
-
 « {{% resource_link 84c75831-86d4-c0ac-5a05-431b1e30cd6a "Previous" %}} | {{% resource_link 61b902b2-1ff3-85e8-0755-c7db49edaa95 "Next" %}} »
 
 We'll be on the go this week with smartphone cameras and video.
