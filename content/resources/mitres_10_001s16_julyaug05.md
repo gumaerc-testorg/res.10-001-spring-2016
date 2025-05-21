@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding sightings article in american
   scientist from july-august 2005.
-file: /ol-ocw-studio-app/courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016/4874b898188856f5580acbaee738e9ab_MITRES_10_001S16_JulyAug05.pdf
+file: /courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016/4874b898188856f5580acbaee738e9ab_MITRES_10_001S16_JulyAug05.pdf
 file_size: 272494
 file_type: application/pdf
 learning_resource_types: []

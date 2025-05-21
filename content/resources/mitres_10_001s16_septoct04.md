@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding sightings article in american
   scientist from september-october 2004.
-file: /ol-ocw-studio-app/courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016/767e447e1da3fba05c28289595d1aba2_MITRES_10_001S16_SeptOct04.pdf
+file: /courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016/767e447e1da3fba05c28289595d1aba2_MITRES_10_001S16_SeptOct04.pdf
 file_size: 113854
 file_type: application/pdf
 learning_resource_types: []
