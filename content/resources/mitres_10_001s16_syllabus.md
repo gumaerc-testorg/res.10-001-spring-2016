@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016/d5ffe06f0ff3eeae772ab5cdab22dd5e_MITRES_10_001S16_syllabus.pdf
+file: /courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016/d5ffe06f0ff3eeae772ab5cdab22dd5e_MITRES_10_001S16_syllabus.pdf
 file_size: 136503
 file_type: application/pdf
 learning_resource_types: []
