@@ -11,7 +11,7 @@ video_metadata:
 ---
 ## Books
 
-![Buy at MIT Press](/images/mp_logo.gif) Frankel, Felice C. *Envisioning Science: The Design and Craft of the Science Image*. MIT Press, 2004. ISBN: 9780262562058. \[Preview with [Google Books](http://books.google.com/books?id=tSQ_9-PZB2oC&pg=PAfrontcover)\]
+Frankel, Felice C. [*Envisioning Science: The Design and Craft of the Science Image*](https://mitpress.mit.edu/9780262062251/envisioning-science/). MIT Press, 2004. ISBN: 9780262562058. \[Preview with [Google Books](http://books.google.com/books?id=tSQ_9-PZB2oC&pg=PAfrontcover)\]
 
 ———. [*The Visual Elements—Photography: A Handbook for Communicating Science and Engineering*](https://press.uchicago.edu/ucp/books/book/chicago/V/bo201733478.html). The University of Chicago Press, 2023.  ISBN: 9780226827025.
 
