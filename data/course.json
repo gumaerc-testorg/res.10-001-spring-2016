@@ -61,7 +61,6 @@
     "website": "res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016"
   },
   "learning_resource_types": [
-    "Course Introduction",
     "Lecture Videos",
     "Activity Assignments with Examples",
     "Instructor Insights",
@@ -69,5 +68,6 @@
   ],
   "site_uid": "9948f1ee-7079-494f-a233-0fd086286421",
   "site_short_id": "res.10-001-spring-2016",
+  "site_url_path": "courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016",
   "title": "Course Metadata"
 }
