@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A image indicates about 12000 students enrolled.
-file: /courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016/35fc42ede6f4b12327969632246fe7a9_12000-approx.png
+file: /ol-ocw-studio-app/courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016/35fc42ede6f4b12327969632246fe7a9_12000-approx.png
 file_size: 22556
 file_type: image/png
 image_metadata:

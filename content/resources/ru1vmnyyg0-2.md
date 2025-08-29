@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016/a90f0f83f50254cc96734f131632ded5_rU1VmnyYG0.vtt
+file: /ol-ocw-studio-app/courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2016/a90f0f83f50254cc96734f131632ded5_rU1VmnyYG0.vtt
 file_size: 2559
 file_type: application/x-subrip
 learning_resource_types: []
