@@ -56,7 +56,7 @@ None
 
 MITx offers a free version of this subject on edX. Please register to get started:
 
-[0.111x Making Science and Engineering Pictures: A Practical Guide to Presenting Your Work](https://www.edx.org/course/making-science-engineering-pictures-mitx-0-111x?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW) (archived) 
+{{% resource_link "102fcb62-0cd2-4300-a692-72daef29ca01" "0.111x Making Science and Engineering Pictures: A Practical Guide to Presenting Your Work" %}} (archived) 
 
 ## Student Information
 
