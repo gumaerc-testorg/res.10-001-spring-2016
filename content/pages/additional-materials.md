@@ -11,17 +11,17 @@ video_metadata:
 ---
 ## Books
 
-Frankel, Felice C. [*Envisioning Science: The Design and Craft of the Science Image*](https://mitpress.mit.edu/9780262062251/envisioning-science/). MIT Press, 2004. ISBN: 9780262562058. \[Preview with [Google Books](http://books.google.com/books?id=tSQ_9-PZB2oC&pg=PAfrontcover)\]
+Frankel, Felice C. {{% resource_link "df87750b-39ac-4c4e-948a-c9d6f8fc6ee2" "*Envisioning Science: The Design and Craft of the Science Image*" %}}. MIT Press, 2004. ISBN: 9780262562058. \[Preview with {{% resource_link "11222291-0ba0-4a10-b1d4-39f382e096bc" "Google Books" %}}\]
 
-———. [*The Visual Elements—Photography: A Handbook for Communicating Science and Engineering*](https://press.uchicago.edu/ucp/books/book/chicago/V/bo201733478.html). The University of Chicago Press, 2023.  ISBN: 9780226827025.
+———. {{% resource_link "60904340-7ea0-43ca-b481-185ae7d5899f" "*The Visual Elements—Photography: A Handbook for Communicating Science and Engineering*" %}}. The University of Chicago Press, 2023.  ISBN: 9780226827025.
 
-———. [*The Visual Elements—Design A Handbook for Communicating Science and Engineering*](https://press.uchicago.edu/ucp/books/book/chicago/V/bo206390609.html). The University of Chicago Press, 2024.  ISBN: 9780226829166.
+———. {{% resource_link "9ba89ef4-3108-409c-967f-9f51563f7bf6" "*The Visual Elements—Design A Handbook for Communicating Science and Engineering*" %}}. The University of Chicago Press, 2024.  ISBN: 9780226829166.
 
 ———. *Sguardi Sulla Scienza /* *Visions of Science*. Edizioni Olivares, 2005. ISBN: 9788885982925.
 
 Frankel, Felice C., and Angela H. DePace. *Visual Strategies: A Practical Guide to Graphics for Scientists and Engineers*. Yale University Press, 2012. ISBN: 9780300176445.
 
-Frankel, Felice C., and George M. Whitesides. *No Small Matter: Science on the Nanoscale*. Belknap Press, 2009. ISBN: 9780674035669. \[Preview with [Google Books](http://books.google.com/books?id=aba8K0UUY-MC&pg=PAfrontcover)\]
+Frankel, Felice C., and George M. Whitesides. *No Small Matter: Science on the Nanoscale*. Belknap Press, 2009. ISBN: 9780674035669. \[Preview with {{% resource_link "08287079-f5a7-4112-9bd6-96c5102d85a0" "Google Books" %}}\]
 
 ———. *On the Surface of Things: Images of the Extraordinary in Science*. Harvard University Press, 2008. ISBN: 9780674026889.
 

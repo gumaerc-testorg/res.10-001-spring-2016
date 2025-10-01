@@ -21,7 +21,7 @@ In 2015, Felice C. Frankel taught this course as an MITx Massive Open Online Cou
 
 If using these materials, please include the following citation when giving attribution: 
 
-© Felice Frankel. *RES.10-001 Making Science and Engineering Pictures: A Practical Guide to Presenting Your Work*. Spring 2017. Massachusetts Institute of Technology: MIT OpenCourseWare, [https://ocw.mit.edu](https://ocw.mit.edu/). License: Creative Commons BY-NC-SA.
+© Felice Frankel. *RES.10-001 Making Science and Engineering Pictures: A Practical Guide to Presenting Your Work*. Spring 2017. Massachusetts Institute of Technology: MIT OpenCourseWare, {{% resource_link "32de748c-b711-4c18-b1a3-88e6a1b2ef27" "https://ocw.mit.edu" %}}. License: Creative Commons BY-NC-SA.
 
 ## Summing Up
 
