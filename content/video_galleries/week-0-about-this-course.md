@@ -42,15 +42,15 @@ Pick an object or a device to scan and photograph throughout the course, using t
 
 While the tutorials in this course use Photoshop, this is not required, and there are several software alternatives. If you do not already have a photo-editing software, you may want to consider these free and open-source applications.
 
-[GIMP](http://www.gimp.org/)
+{{% resource_link "9a724833-cfaf-4696-b829-a9a238086f53" "GIMP" %}}
 
-We've tried it and it works well. Available as a download for Mac or PC, customizable editing tools, accepts a range of file formats. Their website also offers a range of helpful [tutorials](http://www.gimp.org/tutorials/).
+We've tried it and it works well. Available as a download for Mac or PC, customizable editing tools, accepts a range of file formats. Their website also offers a range of helpful {{% resource_link "deb8678f-3916-4909-a758-c16ccef7e96f" "tutorials" %}}.
 
-[Seashore](https://sourceforge.net/projects/seashore/)
+{{% resource_link "dccd7e2f-fa91-44a2-8ea2-a7ae34addfa3" "Seashore" %}}
 
 Based on the GIMP technology, with a more limited tool range and optimized for the Mac OS X. Available for download.
 
-[Pixlr](https://pixlr.com/)
+{{% resource_link "860ec2d3-6176-4354-a30e-f2f74f7b5b92" "Pixlr" %}}
 
 Web-based tool that allows upload of your photos or working with online photos, good tool range, and ability to save the modified image to your computer.
 

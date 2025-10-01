@@ -32,7 +32,7 @@ Course Videos
 
 {{% resource_link ba59f610-e173-e803-b23c-14ae68c739f0 "Video 22: Speaking to the Public" %}}
 
-[Guest Lecture: Kelly Krause, Creative Director, _Nature_](https://www.linkedin.com/in/kelly-krause-9a80ab5)
+{{% resource_link "dfeb08c8-b84b-4d47-a5e9-574874944c1c" "Guest Lecture: Kelly Krause, Creative Director, _Nature_" %}}
 
 Assignment
 ----------

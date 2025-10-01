@@ -18,7 +18,7 @@ videos:
 ---
 {{< resource uuid="08c5d244-6b79-3e02-dd62-674dd8743e93" >}}
 
-[A Conversation with Kelly Krause, Creative Director for *Nature*](https://web.archive.org/web/20150724173131/http://webcast.amps.ms.mit.edu/sum2015/ODL/1530/2/)
+{{% resource_link "360f5555-56b0-4ef8-b908-bb021561fbb9" "A Conversation with Kelly Krause, Creative Director for *Nature*" %}}
 
 {{< resource uuid="5debce8f-fcfd-2884-95b4-e9721ab1674d" >}}
 {{< resource uuid="67934dda-7ff3-0f68-fa6c-0208b2273453" >}}

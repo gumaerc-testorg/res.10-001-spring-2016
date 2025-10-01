@@ -20,7 +20,7 @@ My undergraduate degree is in biology and chemistry, but I don’t have a gradua
 
 So I was good. I published some work through the architect in a garden design magazine. That led to a new life for me of photographing the built landscape in architecture and landscape design.
 
-And then, because of that, I published a book. The book led to my receipt of a [Loeb Fellowship](http://www.gsd.harvard.edu/loeb-fellowship/), a mid-career fellowship at Harvard's Graduate School of Design. During my fellowship, I realized I missed science.
+And then, because of that, I published a book. The book led to my receipt of a {{% resource_link "277992a1-ac40-4ef6-8406-bd786ca14931" "Loeb Fellowship" %}}, a mid-career fellowship at Harvard's Graduate School of Design. During my fellowship, I realized I missed science.
 
 So I audited as many science courses as I could with very famous people. One of the instructors was very clearly visual. I didn't know him from a hole in the wall, but I invited myself to his lab. He agreed, even though he didn't know who I was.
 
@@ -28,6 +28,6 @@ He had just had a paper accepted to _Science_. I looked at his pictures, and the
 
 {{< quote "That's the beauty of the MIT community. If you do something that people think is worthwhile, somehow they find a spot for you." "— Felice Frankel" >}}
 
-It turns out that he was [George M. Whitesides](https://chemistry.harvard.edu/people/george-whitesides), the world-renowned chemist. He said to me, “Stay with this. You're doing something no one's doing.”
+It turns out that he was {{% resource_link "da314159-dc9f-4329-85cb-54703a35f269" "George M. Whitesides" %}}, the world-renowned chemist. He said to me, “Stay with this. You're doing something no one's doing.”
 
-That encouragement from somebody who knew what they were talking about led me to continue playing around in his lab. And eventually, in 1994, a position opened at the [MIT Edgerton Center](https://edgerton.mit.edu/). Whitesides wrote to a number of people at MIT, urging them to give me a chance. They did. That's the beauty of the MIT community. If you do something that people think is worthwhile, somehow they find a spot for you. Twenty-two years later, and I’m still here. Can you believe it? I’m thinking deeply about scientific concepts and how to reveal them pictorially. I’m very lucky. I've come full circle back to science.
+That encouragement from somebody who knew what they were talking about led me to continue playing around in his lab. And eventually, in 1994, a position opened at the {{% resource_link "bf52b91b-51b2-4933-9b8c-853ea57a7c04" "MIT Edgerton Center" %}}. Whitesides wrote to a number of people at MIT, urging them to give me a chance. They did. That's the beauty of the MIT community. If you do something that people think is worthwhile, somehow they find a spot for you. Twenty-two years later, and I’m still here. Can you believe it? I’m thinking deeply about scientific concepts and how to reveal them pictorially. I’m very lucky. I've come full circle back to science.
