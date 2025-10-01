@@ -14,7 +14,7 @@ video_metadata:
   youtube_id: null
 ---
 
-_In this section, Felice Frankel shares how her teaching team used [VoiceThread](https://voicethread.com/) and rubrics to provide MOOC participants with meaningful feedback._
+_In this section, Felice Frankel shares how her teaching team used {{% resource_link "8fc939e1-ebf5-4f6c-9d36-6bf3f6545e03" "VoiceThread" %}} and rubrics to provide MOOC participants with meaningful feedback._
 
 VoiceThread 
 ------------
